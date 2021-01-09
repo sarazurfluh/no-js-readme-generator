@@ -1,0 +1,23 @@
+{
+  "name": "no-js-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarazurfluh/no-js-readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarazurfluh/no-js-readme-generator/issues"
+  },
+  "homepage": "https://github.com/sarazurfluh/no-js-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
